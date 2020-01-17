@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8aceb87-51f4-4e3d-9bfa-4322849eb16a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/HUnit_1_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/QuickCheck_2_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Win32_2_6_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ansi_terminal_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/array_0_5_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/base_4_12_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/bytestring_0_10_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/call_stack_0_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/clock_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/colour_2_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/containers_0_6_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/deepseq_1_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/directory_1_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/filepath_1_4_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ghc_boot_th_8_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ghc_prim_0_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hspec_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hspec_core_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hspec_discover_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hspec_expectations_0_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/integer_gmp_1_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mintty_0_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/pretty_1_1_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/primitive_0_6_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/quickcheck_io_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/random_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/setenv_0_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/splitmix_0_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/stm_2_5_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/template_haskell_2_14_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/tf_random_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/time_1_8_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/transformers_0_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeLog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingDojo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Setup.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Main.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingDojo/Lib.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingDojo/Main.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/CodingDojo/Dojo/DojoSpec.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/CodingDojo/Dojo/TestUtils.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/CodingDojo/Spec.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lib.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack.yaml.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Dojo/DojoSpec.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Dojo/TestUtils.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Spec.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Haskell Module" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\workspace\CodingDojo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WWBMXotom2NzU2b0d9apelSsFH" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="Haskell Stack.Run">
+    <configuration name="REPL" type="HaskellStackConfigurationType" factoryName="Haskell Stack REPL" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="CodingDojo" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="stackArgs" value="" />
+      <option name="stackTarget" value="CodingDojo:lib" />
+      <option name="workingDirPath" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="HaskellStackConfigurationType" factoryName="Haskell Stack Runner" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="CodingDojo" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="executableName" value="CodingDojo-exe" />
+      <option name="programArgs" value="" />
+      <option name="stackArgs" value="" />
+      <option name="workingDirPath" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite" type="HaskellStackConfigurationType" factoryName="Haskell Stack Tester" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="CodingDojo" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="stackArgs" value="" />
+      <option name="testArguments" value="--color" />
+      <option name="testSuiteTargetName" value="CodingDojo:test:CodingDojo-test" />
+      <option name="workingDirPath" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Haskell Stack.TestSuite" />
+      <item itemvalue="Haskell Stack.Run" />
+      <item itemvalue="Haskell Stack.REPL" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8aceb87-51f4-4e3d-9bfa-4322849eb16a" name="Default Changelist" comment="" />
+      <created>1579255422285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579255422285</updated>
+      <workItem from="1579255424435" duration="1651000" />
+      <workItem from="1579257087703" duration="665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="360" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579257054915">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="734" y="360" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.121.1920.1170/0.0.2560.1410@0.0.2560.1410" timestamp="1579257054915" />
+    <state x="960" y="433" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579257071128">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="960" y="433" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1920.121.1920.1170/0.0.2560.1410@0.0.2560.1410" timestamp="1579257071128" />
+    <state width="2561" height="403" key="GridCell.Tab.0.bottom" timestamp="1579257076192">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2561" height="403" key="GridCell.Tab.0.bottom/-1920.121.1920.1170/0.0.2560.1410@0.0.2560.1410" timestamp="1579257076192" />
+    <state width="2561" height="403" key="GridCell.Tab.0.center" timestamp="1579257076192">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2561" height="403" key="GridCell.Tab.0.center/-1920.121.1920.1170/0.0.2560.1410@0.0.2560.1410" timestamp="1579257076192" />
+    <state width="2561" height="403" key="GridCell.Tab.0.left" timestamp="1579257076192">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2561" height="403" key="GridCell.Tab.0.left/-1920.121.1920.1170/0.0.2560.1410@0.0.2560.1410" timestamp="1579257076192" />
+    <state width="2561" height="403" key="GridCell.Tab.0.right" timestamp="1579257076192">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2561" height="403" key="GridCell.Tab.0.right/-1920.121.1920.1170/0.0.2560.1410@0.0.2560.1410" timestamp="1579257076192" />
+    <state x="1086" y="427" key="RollbackChangesDialog" timestamp="1579257632105">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1086" y="427" key="RollbackChangesDialog/-1920.121.1920.1170/0.0.2560.1410@0.0.2560.1410" timestamp="1579257632105" />
+  </component>
+</project>
