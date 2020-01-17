@@ -3,3 +3,4 @@ CodingDojo.cabal
 *~
 stack.yaml
 stack.yaml.lock
+/out/
