@@ -1,5 +1,5 @@
 module Dojo.DojoSpec
-  (main, spec)
+  (spec)
 where
 
 import           Control.Exception     (evaluate)
