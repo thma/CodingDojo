@@ -17,5 +17,5 @@ add a b = a + b
 data Point = Point Int Int
 
 manhattanDistance :: (Point, Point) -> Int
-manhattanDistance (Point x y, Point x1 y1) = abs(x - x1) + abs(y -y1)
+manhattanDistance (Point x y, Point x1 y1) = abs(x - x1) + abs(y - y1)
 

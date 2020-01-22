@@ -14,7 +14,7 @@ spec =
   describe "manhattanDistance" $ do
 
     it "computes the manhattanDistance of 0.0-1.1" $
-     manhattanDistance(Point 0 0, Point 1 1) === 1
+     manhattanDistance(Point 0 0, Point 1 1) === 2
 
     it "computes the manhattanDistance of 1.1-1.2" $
      manhattanDistance(Point 1 1, Point 1 2) `shouldBe` 1
@@ -31,4 +31,4 @@ spec =
 
      
     it "computes the manhattanDistance of any x distance" $
-      property $ \xDistance -> manhattanDistance(Point 0 0, Point xDistance 0) `shouldBe` xDistance
+      property $ \xDistance -> manhattanDistance(Point 0 0, Point xDistance 0) `shouldBe` (abs xDistance)
